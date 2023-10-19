@@ -1,0 +1,24 @@
+c:\users\design & development\documents\visual studio 2010\Projects\SSC Attendance DTR\SSC Attendance DTR\bin\Debug\SSC Attendance DTR.exe
+c:\users\design & development\documents\visual studio 2010\Projects\SSC Attendance DTR\SSC Attendance DTR\bin\Debug\SSC Attendance DTR.pdb
+c:\users\design & development\documents\visual studio 2010\Projects\SSC Attendance DTR\SSC Attendance DTR\bin\Debug\SSC Attendance DTR.xml
+c:\users\design & development\documents\visual studio 2010\Projects\SSC Attendance DTR\SSC Attendance DTR\obj\x86\Debug\SSC_Attendance_DTR.frmDTR.resources
+c:\users\design & development\documents\visual studio 2010\Projects\SSC Attendance DTR\SSC Attendance DTR\obj\x86\Debug\SSC_Attendance_DTR.Resources.resources
+c:\users\design & development\documents\visual studio 2010\Projects\SSC Attendance DTR\SSC Attendance DTR\obj\x86\Debug\SSC Attendance DTR.vbproj.GenerateResource.Cache
+c:\users\design & development\documents\visual studio 2010\Projects\SSC Attendance DTR\SSC Attendance DTR\obj\x86\Debug\SSC Attendance DTR.exe
+c:\users\design & development\documents\visual studio 2010\Projects\SSC Attendance DTR\SSC Attendance DTR\obj\x86\Debug\SSC Attendance DTR.xml
+c:\users\design & development\documents\visual studio 2010\Projects\SSC Attendance DTR\SSC Attendance DTR\obj\x86\Debug\SSC Attendance DTR.pdb
+c:\users\design & development\documents\visual studio 2010\Projects\SSC Attendance DTR\SSC Attendance DTR\obj\x86\Debug\SSC Attendance DTR.exe.licenses
+c:\users\design & development\documents\visual studio 2010\Projects\SSC Attendance DTR\SSC Attendance DTR\obj\x86\Debug\SSC Attendance DTR.vbprojResolveAssemblyReference.cache
+c:\users\design & development\documents\visual studio 2010\Projects\SSC Attendance DTR\SSC Attendance DTR\obj\x86\Debug\SSC_Attendance_DTR.frmSplash.resources
+c:\users\design & development\documents\visual studio 2010\Projects\SSC Attendance DTR\SSC Attendance DTR\bin\Debug\SSC Attendance DTR.exe.config
+D:\TyronSoft\webgeekresources project request\2016\Activity Attendance Monitoring with Biometrics\source code\April 29\DTR System\source\SSC Attendance DTR\SSC Attendance DTR\bin\Debug\SSC Attendance DTR.exe.config
+D:\TyronSoft\webgeekresources project request\2016\Activity Attendance Monitoring with Biometrics\source code\April 29\DTR System\source\SSC Attendance DTR\SSC Attendance DTR\obj\x86\Debug\SSC Attendance DTR.exe
+D:\TyronSoft\webgeekresources project request\2016\Activity Attendance Monitoring with Biometrics\source code\April 29\DTR System\source\SSC Attendance DTR\SSC Attendance DTR\obj\x86\Debug\SSC Attendance DTR.xml
+D:\TyronSoft\webgeekresources project request\2016\Activity Attendance Monitoring with Biometrics\source code\April 29\DTR System\source\SSC Attendance DTR\SSC Attendance DTR\obj\x86\Debug\SSC Attendance DTR.pdb
+D:\TyronSoft\webgeekresources project request\2016\Activity Attendance Monitoring with Biometrics\source code\April 29\DTR System\source\SSC Attendance DTR\SSC Attendance DTR\bin\Debug\SSC Attendance DTR.exe
+D:\TyronSoft\webgeekresources project request\2016\Activity Attendance Monitoring with Biometrics\source code\April 29\DTR System\source\SSC Attendance DTR\SSC Attendance DTR\obj\x86\Debug\SSC Attendance DTR.vbprojResolveAssemblyReference.cache
+D:\TyronSoft\webgeekresources project request\2016\Activity Attendance Monitoring with Biometrics\source code\April 29\DTR System\source\SSC Attendance DTR\SSC Attendance DTR\obj\x86\Debug\SSC_Attendance_DTR.frmDTR.resources
+D:\TyronSoft\webgeekresources project request\2016\Activity Attendance Monitoring with Biometrics\source code\April 29\DTR System\source\SSC Attendance DTR\SSC Attendance DTR\obj\x86\Debug\SSC_Attendance_DTR.frmSplash.resources
+D:\TyronSoft\webgeekresources project request\2016\Activity Attendance Monitoring with Biometrics\source code\April 29\DTR System\source\SSC Attendance DTR\SSC Attendance DTR\obj\x86\Debug\SSC_Attendance_DTR.Resources.resources
+D:\TyronSoft\webgeekresources project request\2016\Activity Attendance Monitoring with Biometrics\source code\April 29\DTR System\source\SSC Attendance DTR\SSC Attendance DTR\obj\x86\Debug\SSC Attendance DTR.vbproj.GenerateResource.Cache
+D:\TyronSoft\webgeekresources project request\2016\Activity Attendance Monitoring with Biometrics\source code\April 29\DTR System\source\SSC Attendance DTR\SSC Attendance DTR\obj\x86\Debug\SSC Attendance DTR.exe.licenses

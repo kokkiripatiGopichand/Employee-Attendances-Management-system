@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SSC-Attendance", "SSC-Attendance\SSC-Attendance.vbproj", "{66FC1F36-AD1E-4F41-B4C4-F68B1E92801C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SSC Attendance", "SSC Attendance\SSC Attendance.vdproj", "{32CDD056-F07E-49D8-A130-2DFF41CDB1C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66FC1F36-AD1E-4F41-B4C4-F68B1E92801C}.Debug|x86.ActiveCfg = Debug|x86
+		{66FC1F36-AD1E-4F41-B4C4-F68B1E92801C}.Debug|x86.Build.0 = Debug|x86
+		{66FC1F36-AD1E-4F41-B4C4-F68B1E92801C}.Release|x86.ActiveCfg = Release|x86
+		{66FC1F36-AD1E-4F41-B4C4-F68B1E92801C}.Release|x86.Build.0 = Release|x86
+		{32CDD056-F07E-49D8-A130-2DFF41CDB1C0}.Debug|x86.ActiveCfg = Debug
+		{32CDD056-F07E-49D8-A130-2DFF41CDB1C0}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
